@@ -1,0 +1,20 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "Мой первый проект на хекслете!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rooflame/hexlet-js.git"
+  },
+  "author": "Rooflame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rooflame/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Rooflame/hexlet-js#readme"
+}
